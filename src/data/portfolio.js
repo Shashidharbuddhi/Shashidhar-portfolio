@@ -45,7 +45,7 @@ export const skillGroups = [
   },
   {
     title: 'AI / ML',
-    skills: ['NLP', 'Transformers', 'RAG', 'Neural Networks - Deep Learning'],
+    skills: ['NLP', 'Transformers', 'Neural Networks - Deep Learning'],
   },
   {
     title: 'Core CS',
@@ -56,7 +56,7 @@ export const skillGroups = [
       'Operating Systems',
       'Computer Networks',
       'Concurrency',
-      'System Design - Basics',
+      
     ],
   },
   {
@@ -141,7 +141,7 @@ export const experiences = [
 ]
 
 export const achievements = [
-  'Solved 20+ DSA problems',
+  'Solved 200+ DSA problems',
   'Top 5 selected for Caterpillar Inside the Machines 2026',
   'Hackathon experience (CIDECODE)',
 ]
