@@ -9,7 +9,7 @@ export const profile = {
   location: 'Bengaluru, India',
   email: 'shashidharbuddhi@gmail.com',
   github: 'https://github.com/Shashidharbuddhi',
-  linkedin: 'https://www.linkedin.com/in/shashidhar-buddhi',
+  linkedin: 'https://www.linkedin.com/in/shashidhar-buddhi-0a06642b7/',
 }
 
 export const aboutCopy =
