@@ -56,7 +56,7 @@ export const skillGroups = [
       'Operating Systems',
       'Computer Networks',
       'Concurrency',
-      
+
     ],
   },
   {
